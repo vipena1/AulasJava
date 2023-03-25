@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Carlos
+ * @author Carols
  *
  */
 module ZoologicoTres {
